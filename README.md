@@ -40,7 +40,7 @@
 <br />
 <img src="src/github-images/image.png">
 
-### Where can I see a live demo? <a href="#" target="_blank" > {Name} </a>
+### Where can I see a live demo? <a href="https://fn-movies-app.netlify.app" target="_blank" >Click Here </a>
 
 <br />
 
